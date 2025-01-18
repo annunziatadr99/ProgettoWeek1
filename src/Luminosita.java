@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public interface Luminosita {
+    abstract void abbassaLuminosita();
+
+    abstract void alzaLuminosita();
 }

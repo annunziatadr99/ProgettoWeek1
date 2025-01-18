@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface Volume {
+    abstract void alzaVolume();
+    abstract void abbassaVolume();
 }

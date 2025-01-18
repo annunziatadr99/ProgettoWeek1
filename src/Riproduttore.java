@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface Riproduttore {
+    int getDurata();
+    void play();
 }
